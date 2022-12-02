@@ -1,0 +1,22 @@
+.photo{
+    background-image: url("https://freshstop.co.za/wp-content/uploads/krispy-kreme-doughnuts-at-freshstop.png");
+    height:120vh;
+    width:100vw;
+    background-size:cover;
+}
+.text{
+    background-color:#FFFF8F;
+    color:black;
+    font-family:Arial;
+    font-style:bold;
+    border-radius:5%;
+    padding:15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.change{
+    width:15%;
+    border-radius:10px;
+    background-color:white;
+    color:black;
+}
